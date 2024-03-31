@@ -11,7 +11,7 @@ The Security Command serves as the intelligence division of Shadow Company, main
 # Reporting:
 
 - Feel free to create a github account and open a ticket [here](https://github.com/orgs/Security-Command/discussions/categories/report).
-- The ticket should include a summary of whatever you want to report and if you posses visual evidence.
+- The ticket should include a summary of whatever you want to report and if you possess visual evidence.
 - The ticket should __NOT__ include said evidence, create it and wait for a reponse.
 
 - ### Reporting Format:
