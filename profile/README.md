@@ -14,7 +14,7 @@ The Security Command serves as the intelligence division of Shadow Company, main
 - The ticket should include a summary of whatever you want to report and if you posses visual evidence.
 - The ticket should __NOT__ include said evidence, create it and wait for a reponse.
 
-- ### Reporing Format:
+- ### Reporting Format:
   ```
   - Name:         [YOUR NAME]
   - Reason:       [REASON]
